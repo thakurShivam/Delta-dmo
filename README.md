@@ -10,5 +10,5 @@ Shivam chauhan
 # Collegge
 Apna college
 
-# hello github
+# Hello github
 hello user Shivam chauhan
